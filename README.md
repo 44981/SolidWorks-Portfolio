@@ -14,9 +14,10 @@ Ball bearing assembly, chain assembly, Robotic Arm assembly, mates, exploded/col
 <img width="1920" height="1080" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/91ee290e-2757-4f42-bd8f-13c303767d84" />
 <img width="737" height="710" alt="Screenshot 2026-09-03 114324" src="https://github.com/user-attachments/assets/eb60c280-69c3-4c97-9f77-83c485a02b1b" />
 <img width="1920" height="1080" alt="645443493-5151ec68-5f07-4cdd-8ef2-f5194b1ef0bc" src="https://github.com/user-attachments/assets/9115cceb-8d8b-4aa1-9572-a11234b93a89" />
-<img width="911" height="487" alt="image" src="https://github.com/user-attachments/assets/582de04c-fc6f-4f5a-b8b2-aa27cfa302f3" />
+<img width="911" height="487" alt="Screenshot 2026-09-03 134537" src="https://github.com/user-attachments/assets/65b64af3-4d84-4861-8c18-574cbbdd0c1c" />
 
-<img width="1379" height="866" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/8eeaa183-8883-4b24-a54c-c657ef0bc247" />
+<img width="522" height="407" alt="image" src="https://github.com/user-attachments/assets/7b51c040-3464-47ab-aae9-7b3d709a48bd" />
+
 
 🎨 Surface &  3D Sketch
 
@@ -51,6 +52,7 @@ Exploded View / Animation
 Motion Analysis
 Mass Properties & Material Evaluation
 CAM (Basic Toolpath/Machining)
+<img width="1920" height="1080" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/c1ff642c-713a-43b3-ae9d-fe6a3bb94335" />
 
 📬 Contact
 📧 homayrahemu186@gmail.com
